@@ -407,7 +407,7 @@ function playShayari(){
 
   voice.rate = .82;
   voice.pitch = 1.12;
-  voice.volume = 50;
+  voice.volume = 1;
 
   speechSynthesis.speak(voice);
 
