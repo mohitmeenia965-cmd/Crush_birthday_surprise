@@ -341,11 +341,7 @@ function showWish(){
 
   typeIntro();
 
-  setTimeout(playShayari,500);
-
-  setTimeout(() => {
-    toggleMusic();
-  },900);
+  
 }
 
 
