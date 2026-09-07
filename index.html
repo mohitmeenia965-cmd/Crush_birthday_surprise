@@ -221,7 +221,7 @@ button:hover{
 
       <br>
 
-      Dua hai tumhari har khushi
+      Dua hai humhari har khushi
       tum tak khud chal kar aaye,
 
       <br>
